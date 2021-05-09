@@ -94,8 +94,6 @@ public Sub Run(Tag As String, Params As Map) As Object
 End Sub
 
 Sub App_iconRequest
-	'App.Icons=Array As Int(iconID,iconID2,iconID3,iconID4,iconID5)
-	'App.Icons=Array As Int(312,313,314,344,346,348,349,485,486,487)
 '	Log("tianqi icon request")
 '	Log(wiconList)
 	App.Icons=wiconList
